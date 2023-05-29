@@ -4,15 +4,15 @@
 
 The original text is written in English and is currently translated into the following languages:
 
-- Korean
-- Spanish
-- Tamil
-- German
-- Italian
-- Japanese
-- French
+- 한국어
+- Español
+- தமிழ்
+- Deutsch
+- Italiano
+- 日本語 
+- Français
 - മലയാളം
-- Turkish
+- Türkçe
 
 ## 📄 Document List
 
